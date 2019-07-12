@@ -1,0 +1,7 @@
+pageObjects\LandingPage.class
+Components\TrifactaUIComponents.class
+pageObjects\LoginPage.class
+Components\LoginPage.class
+resources\base.class
+resources\Exceldata.class
+resources\ExtentReporterNG.class

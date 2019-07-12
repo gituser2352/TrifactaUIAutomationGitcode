@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="trifacta.TrifactaUIHomePageHeaderlinksTest" duration-ms="33921" started-at="2019-07-12T10:05:23Z" finished-at="2019-07-12T10:05:57Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="33921" started-at="2019-07-12T10:05:23Z" finished-at="2019-07-12T10:05:57Z">
+      <class name="trifacta.TrifactaUIHomePageHeaderlinksTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:trifacta.TrifactaUIHomePageHeaderlinksTest@37918c79]" name="initialize" is-config="true" duration-ms="5949" started-at="2019-07-12T10:05:23Z" finished-at="2019-07-12T10:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifyHomePageHeaderlinks()[pri:0, instance:trifacta.TrifactaUIHomePageHeaderlinksTest@37918c79]" name="VerifyHomePageHeaderlinks" duration-ms="27881" started-at="2019-07-12T10:05:29Z" finished-at="2019-07-12T10:05:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePageHeaderlinks -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:trifacta.TrifactaUIHomePageHeaderlinksTest@37918c79]" name="teardown" is-config="true" duration-ms="76" started-at="2019-07-12T10:05:57Z" finished-at="2019-07-12T10:05:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- trifacta.TrifactaUIHomePageHeaderlinksTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- trifacta.TrifactaUIHomePageHeaderlinksTest -->
+</testng-results>
